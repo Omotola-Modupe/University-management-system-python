@@ -2,22 +2,7 @@
 
 A simple menu-driven Python application for managing students, courses, and grades in a university Computer Science department. Data is stored in CSV files.
 
-## Requirements
-
-- Python 3.8 or later
-- No external packages required
-
-## Installation
-
 Clone or download this repository, then open a terminal in the project folder.
-
-## Running the Program
-
-```bash
-python main.py
-```
-
-On startup, the program loads existing data from the `data/` folder.
 
 ## Example Usage
 
